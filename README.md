@@ -8,7 +8,7 @@ A company working on retail Business having different domains products for selli
 ![](https://github.com/pavano1760/Sales-Marketing-strategies-for-Retail-Business/blob/master/strategies.PNG)
 
 ## 1.RFM Segmentation 
-[click here for Code](https://github.com/pavano1760/Sales-Marketing-strategies-for-Retail-Business/blob/master/1.RFM_Score_calculation%20for%20Customer%20Segmentation.ipynb)
+[Click here for Code](https://github.com/pavano1760/Sales-Marketing-strategies-for-Retail-Business/blob/master/1.RFM_Score_calculation%20for%20Customer%20Segmentation.ipynb)
 
 In retail world, businesses require an organized method to analyze customer’s buying behavior and keep them engaged in the buying cycle. Only an apt analysis of customer behavior can drive desired revenue and profits.
 
@@ -19,7 +19,7 @@ Identification of customer segments acts as a basis for an efficient plan to pre
 
 ## 2.Market Basket Analysis 
 
-[click here for Code](https://github.com/pavano1760/Sales-Marketing-strategies-for-Retail-Business/blob/master/2.Market%20Basket%20Analysis.ipynb)
+[Click here for Code](https://github.com/pavano1760/Sales-Marketing-strategies-for-Retail-Business/blob/master/2.Market%20Basket%20Analysis.ipynb)
 
 The Apriori algorithm is used for mining frequent itemsets and devising association rules from a transactional database. The parameters “support” and “confidence” are used. Support refers to items’ frequency of occurrence; confidence is a conditional probability.
 
@@ -28,7 +28,7 @@ Items in a transaction form an item set. The algorithm begins by identifying fre
 ![](https://github.com/pavano1760/Documents/blob/master/1.retail_project/2.market.png) 
 
 ## 3.Promotion Analysis  
-[click here for Code](https://github.com/pavano1760/Sales-Marketing-strategies-for-Retail-Business/blob/master/3.promotion_analysis.ipynb)
+[Click here for Code](https://github.com/pavano1760/Sales-Marketing-strategies-for-Retail-Business/blob/master/3.promotion_analysis.ipynb)
 
 ![]() 
 
@@ -37,7 +37,7 @@ Items in a transaction form an item set. The algorithm begins by identifying fre
 ![]() 
 
 ## 5.Price Elasticity  
-[click here for Code](https://github.com/pavano1760/Sales-Marketing-strategies-for-Retail-Business/blob/master/5.Price%20Elasticity.ipynb)
+[Click here for Code](https://github.com/pavano1760/Sales-Marketing-strategies-for-Retail-Business/blob/master/5.Price%20Elasticity.ipynb)
 
 Price elasticity of demand (PED) shows the relationship between price and quantity demanded and provides a precise calculation of the effect of a change in price on quantity demanded.
 
