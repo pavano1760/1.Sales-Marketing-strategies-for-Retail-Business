@@ -9,19 +9,20 @@ A company working on retail Business having different domains products for selli
 
 - **1.RFM Segmentation**  [Code](https://github.com/pavano1760/Sales-Marketing-strategies-for-Retail-Business/blob/master/1.RFM_Score_calculation%20for%20Customer%20Segmentation.ipynb)
 
-![]() 
-
 In retail world, businesses require an organized method to analyze customer’s buying behavior and keep them engaged in the buying cycle. Only an apt analysis of customer behavior can drive desired revenue and profits.
 
 Identification of customer segments acts as a basis for an efficient plan to predict and target potential customers. Additionally, analysis of customer behavior plays a crucial role in evaluating the lifetime value of customers.
 
-- **2.Market Basket Analysis**  [Code](https://github.com/pavano1760/Sales-Marketing-strategies-for-Retail-Business/blob/master/2.Market%20Basket%20Analysis.ipynb)
+![](https://github.com/pavano1760/Documents/blob/master/1.retail_project/1.rfm.png) 
 
-![]() 
+
+- **2.Market Basket Analysis**  [Code](https://github.com/pavano1760/Sales-Marketing-strategies-for-Retail-Business/blob/master/2.Market%20Basket%20Analysis.ipynb)
 
 The Apriori algorithm is used for mining frequent itemsets and devising association rules from a transactional database. The parameters “support” and “confidence” are used. Support refers to items’ frequency of occurrence; confidence is a conditional probability.
 
 Items in a transaction form an item set. The algorithm begins by identifying frequent, individual items (items with a frequency greater than or equal to the given support) in the database and continues to extend them to larger, frequent itemsets.
+
+![](https://github.com/pavano1760/Documents/blob/master/1.retail_project/2.market.png) 
 
 - **3.Promotion Analysis**  [Code](https://github.com/pavano1760/Sales-Marketing-strategies-for-Retail-Business/blob/master/3.promotion_analysis.ipynb)
 
