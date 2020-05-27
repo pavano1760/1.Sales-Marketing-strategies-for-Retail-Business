@@ -33,7 +33,7 @@ Post Event Analysis (PEA) is an important step in determining if an event has ac
 It enables organizations to analyze promotions more effectively
 As a part of this analysis, they can also determine exactly which factors contributed to the effectiveness of the promotion, or the lack of it.
 
-![](https://github.com/pavano1760/Documents/blob/master/1.retail_project/5.promotion.png) 
+![](https://github.com/pavano1760/Documents/blob/master/1.retail_project/3.promotion.png) 
 
 ## 4.Demand Forecasting  
 [Click here for Code]()
