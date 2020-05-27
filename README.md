@@ -30,14 +30,14 @@ Items in a transaction form an item set. The algorithm begins by identifying fre
 ## 3.Promotion Analysis  
 [Click here for Code](https://github.com/pavano1760/Sales-Marketing-strategies-for-Retail-Business/blob/master/3.promotion_analysis.ipynb)
 
-![]() 
+![Click here for Code](https://github.com/pavano1760/Sales-Marketing-strategies-for-Retail-Business/blob/master/5.Price%20Elasticity.ipynb) 
 
 ## 4.Demand Forecasting  []()
 
 ![]() 
 
 ## 5.Price Elasticity  
-[Click here for Code](https://github.com/pavano1760/Sales-Marketing-strategies-for-Retail-Business/blob/master/5.Price%20Elasticity.ipynb)
+[Click here for Code]()
 
 Price elasticity of demand (PED) shows the relationship between price and quantity demanded and provides a precise calculation of the effect of a change in price on quantity demanded.
 
