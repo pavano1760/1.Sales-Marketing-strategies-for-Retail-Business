@@ -1,11 +1,11 @@
 ## Sales-Marketing-strategies-for-Retail-Business
 
 ![](https://github.com/pavano1760/Documents/blob/master/1.retail_project/symbol.PNG) 
+![](https://github.com/pavano1760/Sales-Marketing-strategies-for-Retail-Business/blob/master/strategies.PNG)
+
 
 ## Problem Statement
 A company working on retail Business having different domains products for selling.Company’s main domains of products are Food products and Furniture/office equipment’s and stationery.company wants have to be work on different strategies for increase their sales.Company provided different datasets of their customer purchase data & sales, users data.by analysing this data applying data science algorithms and statastical techniques to make an optimum profit for the company.
-
-![](https://github.com/pavano1760/Sales-Marketing-strategies-for-Retail-Business/blob/master/strategies.PNG)
 
 ## 1.RFM Segmentation 
 [Click here for Code](https://github.com/pavano1760/Sales-Marketing-strategies-for-Retail-Business/blob/master/1.RFM_Score_calculation%20for%20Customer%20Segmentation.ipynb)
@@ -37,11 +37,12 @@ As a part of this analysis, they can also determine exactly which factors contri
 
 ![](https://github.com/pavano1760/Documents/blob/master/1.retail_project/5.promotion.png) 
 
-## 4.Demand Forecasting  []()
+## 4.Demand Forecasting  
+[Click here for Code]()
 
 Demand Forecasting is the pivotal business process around which strategic and operational plans of a company are devised. Based on the Demand Forecast, strategic and long-range plans of a business like budgeting, financial planning, sales and marketing plans, capacity planning, risk assessment and mitigation plans are formulated.
 
-![]() 
+![](https://github.com/pavano1760/Documents/blob/master/1.retail_project/4.demand.png) 
 
 ## 5.Price Elasticity  
 [Click here for Code](https://github.com/pavano1760/Sales-Marketing-strategies-for-Retail-Business/blob/master/5.Price%20Elasticity.ipynb)
@@ -50,5 +51,5 @@ Price elasticity of demand (PED) shows the relationship between price and quanti
 
 Price elasticity measures the responsiveness of the quantity demanded or supplied of a good to a change in its price. It is computed as the percentage change in quantity demanded (or supplied) divided by the percentage change in price.
 
-![]() 
+![](https://github.com/pavano1760/Documents/blob/master/1.retail_project/5.priceelasticity.png) 
 
