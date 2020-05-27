@@ -19,11 +19,11 @@ The Apriori algorithm is used for mining frequent itemsets and devising associat
 
 Items in a transaction form an item set. The algorithm begins by identifying frequent, individual items (items with a frequency greater than or equal to the given support) in the database and continues to extend them to larger, frequent itemsets.
 
-- **3.Promotion Analysis**  [Code]
+- **3.Promotion Analysis**  [Code](https://github.com/pavano1760/Sales-Marketing-strategies-for-Retail-Business/blob/master/3.promotion_analysis.ipynb)
 
-- **4.Demand Forecasting**  [Code]
+- **4.Demand Forecasting**  []()
 
-- **5.Price Elasticity**  [Code](https://github.com/pavano1760/Sales-Marketing-strategies-for-Retail-Business/blob/master/3.Price%20Elasticity.ipynb)
+- **5.Price Elasticity**  [Code](https://github.com/pavano1760/Sales-Marketing-strategies-for-Retail-Business/blob/master/5.Price%20Elasticity.ipynb)
 
 Price elasticity of demand (PED) shows the relationship between price and quantity demanded and provides a precise calculation of the effect of a change in price on quantity demanded.
 
