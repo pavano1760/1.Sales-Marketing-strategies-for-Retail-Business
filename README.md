@@ -1,8 +1,6 @@
 ## Sales-Marketing-strategies-for-Retail-Business
 
 ![](https://github.com/pavano1760/Documents/blob/master/1.retail_project/symbol.PNG) 
-![](https://github.com/pavano1760/Documents/blob/master/1.retail_project/strategies.PNG)
-
 
 ## Problem Statement
 A company working on retail Business having different domains products for selling.Company’s main domains of products are Food products and Furniture/office equipment’s and stationery.company wants have to be work on different strategies for increase their sales.Company provided different datasets of their customer purchase data & sales, users data.by analysing this data applying data science algorithms and statastical techniques to make an optimum profit for the company.
