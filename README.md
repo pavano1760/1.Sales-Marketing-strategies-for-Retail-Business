@@ -30,18 +30,25 @@ Items in a transaction form an item set. The algorithm begins by identifying fre
 ## 3.Promotion Analysis  
 [Click here for Code](https://github.com/pavano1760/Sales-Marketing-strategies-for-Retail-Business/blob/master/3.promotion_analysis.ipynb)
 
-![Click here for Code](https://github.com/pavano1760/Sales-Marketing-strategies-for-Retail-Business/blob/master/5.Price%20Elasticity.ipynb) 
+Post Event Analysis (PEA) is an important step in determining if an event has achieved the expected goals and success. This analysis helps sales executives drive better strategizing and decision-making, while also enabling marketers to leverage well-informed promotional opportunities.
+
+It enables organizations to analyze promotions more effectively
+As a part of this analysis, they can also determine exactly which factors contributed to the effectiveness of the promotion, or the lack of it.
+
+![](https://github.com/pavano1760/Documents/blob/master/1.retail_project/5.promotion.png) 
 
 ## 4.Demand Forecasting  []()
+
+Demand Forecasting is the pivotal business process around which strategic and operational plans of a company are devised. Based on the Demand Forecast, strategic and long-range plans of a business like budgeting, financial planning, sales and marketing plans, capacity planning, risk assessment and mitigation plans are formulated.
 
 ![]() 
 
 ## 5.Price Elasticity  
-[Click here for Code]()
+[Click here for Code](https://github.com/pavano1760/Sales-Marketing-strategies-for-Retail-Business/blob/master/5.Price%20Elasticity.ipynb)
 
 Price elasticity of demand (PED) shows the relationship between price and quantity demanded and provides a precise calculation of the effect of a change in price on quantity demanded.
 
 Price elasticity measures the responsiveness of the quantity demanded or supplied of a good to a change in its price. It is computed as the percentage change in quantity demanded (or supplied) divided by the percentage change in price.
 
-![](https://github.com/pavano1760/Documents/blob/master/1.retail_project/5.promotion.png) 
+![]() 
 
