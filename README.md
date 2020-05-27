@@ -1,7 +1,7 @@
 ## Sales-Marketing-strategies-for-Retail-Business
 
 ![](https://github.com/pavano1760/Documents/blob/master/1.retail_project/symbol.PNG) 
-![](https://github.com/pavano1760/Sales-Marketing-strategies-for-Retail-Business/blob/master/strategies.PNG)
+![](https://github.com/pavano1760/Documents/blob/master/1.retail_project/strategies.PNG)
 
 
 ## Problem Statement
