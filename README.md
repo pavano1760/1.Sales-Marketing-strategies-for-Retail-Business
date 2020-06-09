@@ -36,7 +36,7 @@ As a part of this analysis, they can also determine exactly which factors contri
 ![](https://github.com/pavano1760/Documents/blob/master/1.retail_project/3.promotion.png) 
 
 ## 4.Demand Forecasting  
-[Click here for Code]()
+[Click here for Code](https://github.com/pavano1760/Sales-Marketing-strategies-for-Retail-Business/blob/master/4.Demand_forecasting.ipynb)
 
 Demand Forecasting is the pivotal business process around which strategic and operational plans of a company are devised. Based on the Demand Forecast, strategic and long-range plans of a business like budgeting, financial planning, sales and marketing plans, capacity planning, risk assessment and mitigation plans are formulated.
 
