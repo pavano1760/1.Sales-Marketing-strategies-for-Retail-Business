@@ -1,7 +1,5 @@
 ## Sales-Marketing-strategies-for-Retail-Business
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
 ![a](https://github.com/pavano1760/Documents/blob/master/1.retail_project/symbol.PNG) 
 
 ## Problem Statement
