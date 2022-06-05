@@ -1,4 +1,4 @@
-## Sales-Marketing-strategies-for-Retail-Business
+## Sales-Marketing-strategies-for-Retail-Business 
 
 ![a](https://github.com/pavano1760/Documents/blob/master/1.retail_project/symbol.PNG) 
 
